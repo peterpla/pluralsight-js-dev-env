@@ -1,4 +1,3 @@
-import 'whatwg-fetch'; // browser polyfill for fetch
 
 export function getUsers() {
   return get('users');
